@@ -4,7 +4,7 @@ class HelloWorld {
     System.out.println("Welcome to the future!");
 
     for (int i = 1; i <= 100; i++) {
-      System.out.println(i);
+      System.out.println("The number is " + i);
     }
   }
 }
