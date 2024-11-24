@@ -6,7 +6,5 @@ class HelloWorld {
     for (int i = 1; i <= 100; i++) {
       System.out.println(i);
     }
-
-    System.out.println("Collaborators: Ravi Mandala, Ravi Mandala test1");
   }
 }
